@@ -1,0 +1,14 @@
+h1
+{
+text-align: center;
+}
+section
+{
+float: left;
+padding-left: 110px;
+}
+aside{
+    float: right;
+    padding-right: 120px;
+}
+   
